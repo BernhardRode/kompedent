@@ -5,4 +5,7 @@ deployment:
     staging:
          branch: master
          commands:
+             - npm install -g bower
+             - bower install 
+             - npm install -g harp
              - ./deploy_staging.sh
