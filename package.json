@@ -1,6 +1,6 @@
 {
   "name": "kompendent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webseite for kompedent",
   "main": "index.js",
   "scripts": {
