@@ -23,5 +23,8 @@
   "dependencies": {
     "bootstrap": "^3.3.4",
     "skrollr": "^0.6.26"
+  },
+  "devDependencies": {
+    "surge": "^0.11.0"
   }
 }
