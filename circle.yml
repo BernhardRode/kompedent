@@ -1,4 +1,8 @@
 general:
     artifacts:
         - "www"
-
+deployment:
+    staging:
+         branch: master
+         commands:
+             - ./deploy_staging.sh
