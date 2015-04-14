@@ -8,4 +8,6 @@ deployment:
              - npm install -g bower
              - bower install 
              - npm install -g harp
-             - ./deploy_staging.sh
+             - harp compile
+             - npm install -g surge
+             - surge www jaded-balloon.surge.sh
