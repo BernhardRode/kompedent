@@ -194,28 +194,28 @@
     "sections": {
       "verantwortung": {
         "titel": "Weil es unsere <br/><strong>Verantwortung</strong> ist.",
-        "bild": "public/images/startseite/001.jpg",
+        "bild": "public/images/landing/001.jpg",
         "untertitel": "Das Beste an echter<br/>Handarbeit? Die Qualität.",
         "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
         "scrollen": true
       },
       "herkunft": {
         "titel": "Darauf bauen<br/><strong>Wir</strong> auf.",
-        "bild": "public/images/startseite/002.jpg",
+        "bild": "public/images/landing/002.jpg",
         "untertitel": "Allein die Herkunft sagt<br/>viel über die Qualität aus.",
         "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
         "scrollen": true
       },
       "region": {
         "titel": "Kompetent. Vor Ort.<br/><strong>Regional.</strong>",
-        "bild": "public/images/startseite/003.jpg",
+        "bild": "public/images/landing/003.jpg",
         "untertitel": "Unsere Region ist stark.<br/>Das nutzen wir.",
         "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
         "scrollen": true
       },
       "team": {
         "titel": "Alles. Gemeinsam.<br/><strong>Im Team.</strong>",
-        "bild": "public/images/startseite/004.jpg",
+        "bild": "public/images/landing/004.jpg",
         "untertitel": "Werte Schaffen.<br/>Experten für Sie.",
         "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
         "scrollen": true
