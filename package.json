@@ -1,0 +1,27 @@
+{
+  "name": "kompendent",
+  "version": "1.0.0",
+  "description": "webseite for kompedent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BernhardRode/kompendent.git"
+  },
+  "keywords": [
+    "static",
+    "website"
+  ],
+  "author": "Bernhard Rode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernhardRode/kompendent/issues"
+  },
+  "homepage": "https://github.com/BernhardRode/kompendent",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "skrollr": "^0.6.26"
+  }
+}

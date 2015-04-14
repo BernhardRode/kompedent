@@ -1,0 +1,31 @@
+div.container.content
+  div.row
+    div.col-lg-3
+      #sidebar.hidden-md(data-spy="affix",data-offset-top="0")
+        h4.text-right Experten
+        ul.list-unstyled.text-right
+          for experte in experten
+            li
+              a(href='##{experte.vorname.toLowerCase()}#{experte.vorname.toLowerCase()}') #{experte.vorname} #{experte.nachname}
+    div.col-lg-9
+      for experte in experten
+        a(id='#{experte.vorname.toLowerCase()}#{experte.vorname.toLowerCase()}')
+        div.panel.panel-kompedent
+          div.panel-heading
+            h2
+              strong.pull-left #{experte.vorname} #{experte.nachname}
+              ul.list-inline
+                for aufgabe in experte.aufgaben
+                  li= aufgabe
+          div.panel-body
+            img.img-responsive(src=experte.bild)
+          div.panel-footer
+            ul.list-inline
+              li
+                img(src='images/icon.email.schwarz.svg',width="32",height="32",style="margin-right:10px;")
+                strong= experte.email
+              li
+                img(src='images/icon.telefon.schwarz.svg',width="32",height="32",style="margin-right:10px;")
+                strong= experte.telefon
+            p(style="margin-top:15px;")= experte.beschreibung
+

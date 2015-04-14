@@ -1,0 +1,41 @@
+.container.content
+  .row
+    .col-lg-3.text-right
+      #sidebar.hidden-md(data-spy="affix",data-offset-top="0")
+        h4 Kompetenz
+        ul.list-unstyled
+          for kompetenz in kompetenzen
+            li
+              a(href='##{kompetenz.anchor}') #{kompetenz.name}
+    .col-lg-9
+      for kompetenz in kompetenzen
+        a(id='#{kompetenz.anchor}')
+        .panel.panel-kompedent
+          .panel-heading
+            h2
+              strong.pull-left #{kompetenz.name}
+              ul.list-inline
+                for merkmal in kompetenz.merkmale
+                  li= merkmal
+          if ( kompetenz.bilder.length > 0 )
+            .panel-body
+              if ( kompetenz.bilder.length > 1 )
+                .carousel.slide(data-ride="carousel",id='#{kompetenz.anchor}-slider',data-interval=10000)
+                  .carousel-inner(role="listbox")
+                    - var active = true
+                    for bild in kompetenz.bilder
+                      if (active)
+                        - active = false
+                        .item.active
+                          img.img-responsive(src=bild,alt=kompetenz.name)
+                      else
+                        .item
+                          img.img-responsive(src=bild,alt=kompetenz.name)
+                    a.left.carousel-control(href='##{kompetenz.anchor}-slider', role='button', data-slide='prev')
+                      span.glyphicon.glyphicon-menu-left
+                    a.right.carousel-control(href='##{kompetenz.anchor}-slider', role='button', data-slide='next')
+                      span.glyphicon.glyphicon-menu-right
+              else
+                img.img-responsive(src=kompetenz.bilder[0])
+          .panel-footer
+            p= kompetenz.beschreibung

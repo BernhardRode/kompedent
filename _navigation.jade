@@ -1,0 +1,31 @@
+nav#navbar.navbar.navbar-default.navbar-fixed-top
+  .container
+    .row.hidden-xs
+      .col-lg-2
+        img.logo(src="images/logo.kompedent.svg",width="269",height="82")                                                                        .row.hidden-xs
+    .row
+      .col-lg-offset-3.col-lg-9
+        .navbar-header
+          button.navbar-toggle.collapsed(type="button",data-toggle="collapse",data-target=".kompedent-navbar-collapse", aria-expanded="false", aria-controls="navbar")
+            span.sr-only Toggle Navigation
+            span.icon-bar
+            span.icon-bar
+            span.icon-bar
+          a.navbar-brand(href="/")
+            span.visible-xs.text-primary kompeDent Zahntechnik
+        #navbar.collapse.navbar-collapse.kompedent-navbar-collapse
+          ul.nav.navbar-nav.kompedent-nav
+            li(class=current.source == "kompetenz" ? "active" : "")
+              a(href='/kompetenz.html') Kompetenz
+            li(class=current.source == "service" ? "active" : "")
+              a(href='/service.html') Service
+            li(class=current.source == "experten" ? "active" : "")
+              a(href='/experten.html') Experten
+            li(class=current.source == "index" ? "active" : "")
+              a(href='/') Philosophie
+            li(class=current.source == "einblicke" ? "active" : "")
+              a(href='/einblicke.html') Einblicke
+            li(class=current.source == "kontakt" ? "active" : "")
+              a(href='/kontakt.html') Kontakt
+            li(class=current.source == "impressum" ? "active" : "")
+              a(href='/impressum.html') Impressum

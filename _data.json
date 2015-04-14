@@ -1,0 +1,260 @@
+{
+  "globals": {
+    "title": "kompedent - Zahntechnik",
+    "description": "I’m awesome and so are you",
+    "logo": "images/kompetenz/kompetenz.keramik.002.jpg"
+  },
+  "kompetenz": {
+    "title": "Kompetenz",
+    "description": "Unseree Kompetenzbereiche",
+    "kompetenzen": [
+      {
+        "name": "Keramik",
+        "anchor":"keramik",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bilder": [
+          "images/kompetenz/kompetenz.keramik.001.jpg",
+          "images/kompetenz/kompetenz.keramik.002.jpg"
+        ],
+        "merkmale": [
+          "Merkmal1",
+          "Merkmal2",
+          "Merkmal3"
+        ]
+      },{
+        "name": "Implantattechnik",
+        "anchor":"implantattechnik",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bilder": [
+          "images/kompetenz/kompetenz.implantattechnik.001.jpg",
+          "images/kompetenz/kompetenz.implantattechnik.002.jpg",
+          "images/kompetenz/kompetenz.implantattechnik.003.jpg"
+        ],
+        "merkmale": [
+          "Merkmal1",
+          "Merkmal2",
+          "Merkmal3"
+        ]
+      },{
+        "name": "CAD/CAM & Scanner",
+        "anchor":"cadcam",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bilder": [
+          "images/kompetenz/kompetenz.cadcam.001.jpg",
+          "images/kompetenz/kompetenz.cadcam.002.jpg"
+        ],
+        "merkmale": [
+          "Merkmal1",
+          "Merkmal2",
+          "Merkmal3"
+        ]
+      },{
+        "name": "Galvanotechnik",
+        "anchor":"galvanotechnik",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bilder": [
+          "images/kompetenz/kompetenz.galvano.001.jpg",
+          "images/kompetenz/kompetenz.galvano.002.jpg",
+          "images/kompetenz/kompetenz.galvano.003.jpg",
+          "images/kompetenz/kompetenz.galvano.004.jpg"
+        ],
+        "merkmale": [
+          "Merkmal1",
+          "Merkmal2",
+          "Merkmal3"
+        ]
+      },{
+        "name": "Kunststoffprothetik",
+        "anchor":"kunststoffprothetik",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bilder": [
+          "images/kompetenz/kompetenz.kunststoff.001.jpg"
+        ],
+        "merkmale": [
+          "Merkmal1",
+          "Merkmal2",
+          "Merkmal3"
+        ]
+      },{
+        "name": "Reparatur",
+        "anchor":"reparatur",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bilder": [
+          "images/kompetenz/kompetenz.reparatur.001.jpg"
+        ],
+        "merkmale": [
+          "Merkmal1",
+          "Merkmal2",
+          "Merkmal3"
+        ]
+      }
+    ]
+  },
+  "service": {
+    "title": "Service",
+    "description": "I’m awesome and so are you",
+    "arbeitsweisen": [
+      {
+        "anchor":"beratung",
+        "name": "Individuelle Patientenberatung",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bild": "images/arbeitsweise/arbeitsweise.beratung.jpg"
+      },{
+        "anchor":"farbe",
+        "name": "Individuelle Farbabnahme",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bild": "images/arbeitsweise/arbeitsweise.farbe.jpg"
+      },{
+        "anchor":"anprobe",
+        "name": "Anprobe",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bild": "images/arbeitsweise/arbeitsweise.anprobe.jpg"
+      },{
+        "anchor":"kruier",
+        "name": "Kurierservice",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bild": "images/arbeitsweise/arbeitsweise.kurier.jpg"
+      },{
+        "anchor":"garantie",
+        "name": "Garantie",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "bild": "images/arbeitsweise/arbeitsweise.garantie.jpg"
+      }
+    ]
+  },
+  "experten": {
+    "title": "Experten",
+    "description": "Unser Team von Experten.",
+    "experten" : [
+      {
+        "vorname":"Hartmut",
+        "nachname":"Susset",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"Hartmut.Susset@kompedent-zt.de",
+        "bild":"images/experte/hartmut.susset.jpg",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "aufgaben":[
+          "Planung",
+          "individuelle Kundenberatung und Service",
+          "Qualitätssicherung"
+        ]
+      },{
+        "vorname":"Silvia",
+        "nachname":"Hirche",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"Silvia.Hirche@kompedent-zt.de",
+        "bild":"images/experte/silvia.hirche.jpg",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "aufgaben":[
+          "Keramik",
+          "Implanattechnik"
+        ]
+      },{
+        "vorname":"Michael",
+        "nachname":"Gerner",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"Michael.Gerner@kompedent-zt.de",
+        "bild":"images/experte/michael.gerner.jpg",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "aufgaben":[
+          "Keramik",
+          "Implanattechnik",
+          "Individuelle Farbbestimmung",
+          "Cad/CAM"
+        ]
+      },{
+        "vorname":"Eva",
+        "nachname":"Gajweski",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"Eva.Gajweski@kompedent-zt.de",
+        "bild":"images/experte/eva.gajweski.jpg",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "aufgaben":[
+          "Individuelle Kunststoffprothethik",
+          "Reparatur"
+        ]
+      },{
+        "vorname":"Sandra",
+        "nachname":"Knapp",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"Sandra.Knapp@kompedent-zt.de",
+        "bild":"images/experte/sandra.knapp.jpg",
+        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "aufgaben":[
+          "Arbeitsvorbereitung",
+          "Kurierservice"
+        ]
+      }
+    ]
+  },
+  "index": {
+    "title": "Philosophie",
+    "description": "I’m awesome and so are you",
+    "untertitel":"Mehr halten als versprechen.",
+    "sections": {
+      "verantwortung": {
+        "titel": "Weil es unsere <br/><strong>Verantwortung</strong> ist.",
+        "bild": "images/startseite/001.jpg",
+        "untertitel": "Das Beste an echter<br/>Handarbeit? Die Qualität.",
+        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "scrollen": true
+      },
+      "herkunft": {
+        "titel": "Darauf bauen<br/><strong>Wir</strong> auf.",
+        "bild": "images/startseite/002.jpg",
+        "untertitel": "Allein die Herkunft sagt<br/>viel über die Qualität aus.",
+        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "scrollen": true
+      },
+      "region": {
+        "titel": "Kompetent. Vor Ort.<br/><strong>Regional.</strong>",
+        "bild": "images/startseite/003.jpg",
+        "untertitel": "Unsere Region ist stark.<br/>Das nutzen wir.",
+        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "scrollen": true
+      },
+      "team": {
+        "titel": "Alles. Gemeinsam.<br/><strong>Im Team.</strong>",
+        "bild": "images/startseite/004.jpg",
+        "untertitel": "Werte Schaffen.<br/>Experten für Sie.",
+        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "scrollen": true
+      }
+    }
+  },
+  "einblicke": {
+    "title": "Philosophie",
+    "description": "Unsere Philosophie",
+    "bilder" : [
+      "images/einblicke/einblicke.001.jpg",
+      "images/einblicke/einblicke.002.jpg",
+      "images/einblicke/einblicke.003.jpg",
+      "images/einblicke/einblicke.004.jpg",
+      "images/einblicke/einblicke.005.jpg",
+      "images/einblicke/einblicke.006.jpg",
+      "images/einblicke/einblicke.007.jpg",
+      "images/einblicke/einblicke.008.jpg",
+      "images/einblicke/einblicke.009.jpg",
+      "images/einblicke/einblicke.010.jpg",
+      "images/einblicke/einblicke.011.jpg",
+      "images/einblicke/einblicke.012.jpg",
+      "images/einblicke/einblicke.013.jpg",
+      "images/einblicke/einblicke.014.jpg",
+      "images/einblicke/einblicke.015.jpg",
+      "images/einblicke/einblicke.016.jpg",
+      "images/einblicke/einblicke.017.jpg",
+      "images/einblicke/einblicke.018.jpg",
+      "images/einblicke/einblicke.019.jpg"
+    ]
+  },
+  "kontakt": {
+    "title": "Kontakt",
+    "description": "Kontaktieren Sie uns noch heute!",
+    "bild": "images/kontakt.jpg",
+    "emailicon": "images/icon.email.weiss.svg"
+  },
+  "impressum": {
+    "title": "Impressum",
+    "description": "Impressum"
+  }
+}
