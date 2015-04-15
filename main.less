@@ -27,12 +27,15 @@ body{
 
 
 .container.content {
-  padding-top:250px;
+  padding-top:210px;
 }
 
 @media (max-width: @screen-xs-max)  {
   body{
     padding-top:50px;
+  }
+  .container.content {
+    padding-top:20px;
   }
 }
 
@@ -52,7 +55,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .navbar .logo {
-  margin-top: 74px;
+  margin-top: 34px;
   width:269px;
   height:82px;
 }
@@ -117,7 +120,6 @@ section {
 
   &.kontakt {
     font-weight:100;
-
   }
 }
 
@@ -182,9 +184,8 @@ nav {
 
 @media (max-width: @screen-xs-max)  {
   .kompedent-nav {
-    padding-top:10px;
+    width:100%;
     text-align: center;
-
     li {
       &.active, &:hover, &:focus, &:visited {
         background: none;
@@ -300,15 +301,29 @@ nav {
   }
 }
 
-@media (max-width: @screen-xs-max)  {
-  .panel-heading {
-    h2 {
-      margin-top:0;
-      font-size: 20px;
-      ul {
-        clear:both;
-        li {
-          display:inline;
+@media (max-width: @screen-md-max)  {
+
+  .panel-kompedent {
+    padding:0;
+    .panel-heading {
+      padding-left:10px;
+      padding-right:10px;
+      padding-top:0;
+      padding-bottom:0;
+
+      h2 {
+        margin-top: 0;
+
+        strong {
+          font-size: 27px;
+        }
+
+        ul {
+          font-size: 7px;
+          clear: both;
+          li {
+            display: inline;
+          }
         }
       }
     }
@@ -384,12 +399,37 @@ footer {
 }
 
 
+.carousel-control {
+
+  &.left {
+    .helper {
+      img {
+        left:10px;
+      }
+    }
+  }
+
+  .helper {
+    position: relative;
+    height:100%;
+    width:100%;
+    img {
+      position: absolute;
+      top:50%;
+      height:60px;
+      width:60px;
+      margin:-30px auto 0 auto;
+    }
+  }
+
+}
+
 /* Parallax base styles
  --------------------------------------------- */
 
 .parallax {
 
-  padding-top:200px;
+  padding-top:160px;
 
   .slide {
     position: relative;
@@ -495,18 +535,32 @@ footer {
 
 @media (max-width: @screen-xs-max)  {
   .parallax {
-    h1 {
-      font-size: 38px !important;
-    }
+    padding-top: 0;
+
     .slide {
-      height: 90vh !important;
+      height: inherit;
       background-position: 0 0px !important;
+
+      h1 {
+        font-size: 28px !important;
+        line-height: 30px;
+
+      }
+    }
+
+    .marker {
+      h1 {
+        font-size: 28px !important;
+        line-height: 30px;
+      }
     }
   }
 }
 @media (max-width: @screen-md-max)  {
-  .slide {
-    height: 90vh !important;
-    background-position: 0 0px !important;
+  .parallax {
+    .slide {
+      height: 90vh !important;
+      background-position: 0 0px !important;
+    }
   }
 }

@@ -32,9 +32,11 @@
                         .item
                           img.img-responsive(src=bild,alt=kompetenz.name)
                     a.left.carousel-control(href='##{kompetenz.anchor}-slider', role='button', data-slide='prev')
-                      span.glyphicon.glyphicon-menu-left
+                      .helper
+                        img(src="public/images/pfeil-links-slider.svg",width="60",height="60")
                     a.right.carousel-control(href='##{kompetenz.anchor}-slider', role='button', data-slide='next')
-                      span.glyphicon.glyphicon-menu-right
+                      .helper
+                        img(src="public/images/pfeil-rechts-slider.svg",width="60",height="60")
               else
                 img.img-responsive(src=kompetenz.bilder[0])
           .panel-footer
