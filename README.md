@@ -1,5 +1,2 @@
 # kompendent
 Zahntechnik Kompedent
-
-
-Auto
