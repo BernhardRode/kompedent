@@ -335,7 +335,6 @@ nav {
         }
 
         ul {
-          font-size: 7px;
           clear: both;
           li {
             display: inline;
@@ -344,7 +343,18 @@ nav {
       }
     }
   }
+}
 
+@media (max-width: @screen-xs-max)  {
+  .panel-kompedent {
+    .panel-heading {
+      h2 {
+        ul {
+           font-size:10px;
+        }
+      }
+    }
+  }
 }
 
 .blau {
@@ -583,5 +593,11 @@ footer {
 .experten-details {
   li {
      padding-right: 48px;
+     img {
+       margin-right:10px;
+     }
+     strong { 
+       font-weight:700;
+     }
   }
 }
