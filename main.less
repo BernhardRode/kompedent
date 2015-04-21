@@ -135,6 +135,7 @@ section {
       font-size:50px;
       margin-top:6px;
       margin-bottom:15px;
+      font-weight:100;
 
       &.email {
         text-transform: none;
@@ -145,6 +146,10 @@ section {
         a {
           padding-left:10px;
           text-decoration: none;
+        }
+	
+	img {
+		padding-right: 15px;
         }
       }
     }
@@ -207,6 +212,9 @@ nav {
 }
 
 @media (max-width: @screen-md-max)  {
+  .kompedent-nav {
+    margin-top:0;
+  }
   #navbar {
     .container {
       width:100%;
