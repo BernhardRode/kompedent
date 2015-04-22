@@ -38,7 +38,13 @@ $(document).ready(function(){
 	console.log('###');
       });
     }
-     $('#sidebar a').first().addClass('active');
+    $('#sidebar a').first().addClass('active');
     $(document).on("scroll", onScroll);
+  }
+
+  if( $('.parallax').length ) {
+    setTimeout( function() {
+      $(window).trigger('resize').trigger('scroll');
+    },600);
   }
 });
