@@ -9,8 +9,7 @@
               a(href='##{kompetenz.anchor}') #{kompetenz.name}
     .col-lg-9
       for kompetenz in kompetenzen
-        a(id='#{kompetenz.anchor}')
-        .panel.panel-kompedent
+        .panel.panel-kompedent(id='#{kompetenz.anchor}')
           .panel-heading
             h2
               strong.pull-left #{kompetenz.name}

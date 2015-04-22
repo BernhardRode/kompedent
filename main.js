@@ -17,4 +17,28 @@ $(document).ready(function(){
       }
     };
   });
+
+  if( $('#sidebar').length ) {
+    function onScroll(event) { 
+      var scrollPosition = $(document).scrollTop();
+      $('#sidebar a').each(function () {
+        var currentLink = $(this);
+	var refElement = $(currentLink.attr("href"));
+	console.log("Position",scrollPosition);
+        console.log("From",refElement.position().top);
+ 	console.log("To", refElement.position().top + refElement.height());
+	if (refElement.position().top <= scrollPosition && refElement.position().top + refElement.height() > scrollPosition) {
+	  $('#sidebar ul li a').removeClass("active");
+          console.log('Found');
+	  currentLink.addClass("active");
+	} else {
+          console.log('Not Found');
+	  currentLink.removeClass("active");
+	};
+	console.log('###');
+      });
+    }
+     $('#sidebar a').first().addClass('active');
+    $(document).on("scroll", onScroll);
+  }
 });

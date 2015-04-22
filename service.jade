@@ -9,8 +9,7 @@ div.container.content
               a(href='##{arbeitsweise.anchor}') #{arbeitsweise.name}
     .col-lg-9
       for arbeitsweise in arbeitsweisen
-        a(id='#{arbeitsweise.anchor}')
-        .panel.panel-kompedent
+        .panel.panel-kompedent(id='#{arbeitsweise.anchor}')
           .panel-heading
             h2
               strong #{arbeitsweise.name}

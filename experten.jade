@@ -1,7 +1,7 @@
 div.container.content
   div.row
     div.col-lg-3
-      #sidebar.hidden-md(data-spy="affix",data-offset-top="0")
+      #sidebar.hidden-md
         h4.text-right Experten
         ul.list-unstyled.text-right
           for experte in experten
@@ -9,8 +9,7 @@ div.container.content
               a(href='##{experte.vorname.toLowerCase()}#{experte.vorname.toLowerCase()}') #{experte.vorname} #{experte.nachname}
     div.col-lg-9
       for experte in experten
-        a(id='#{experte.vorname.toLowerCase()}#{experte.vorname.toLowerCase()}')
-        div.panel.panel-kompedent
+        div.panel.panel-kompedent(id='#{experte.vorname.toLowerCase()}#{experte.vorname.toLowerCase()}')
           div.panel-heading
             h2
               strong.pull-left #{experte.vorname} #{experte.nachname}
