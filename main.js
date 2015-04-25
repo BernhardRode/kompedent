@@ -55,11 +55,11 @@ $(document).ready(function () {
     $('.carousel').hammer();
 
     $('.carousel').on('swipeleft', function() {
-      $(this).carousel('prev');
+      $(this).carousel('next');
     });
 
     $('.carousel').on('swiperight', function() {
-      $(this).carousel('next');
+      $(this).carousel('prev');
     });
   }
 
