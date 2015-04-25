@@ -108,12 +108,12 @@ h1,h2,h3,h4,h5,h6 {
     color:#767676;
     font-size:@font-size-base;
     text-decoration: none;
-   
+
     &:hover, &:active, &:visited {
       color:#232323;
     }
 
-    &.active { 
+    &.active {
       color:@boxblau;
     }
   }
@@ -168,7 +168,7 @@ section {
         a {
           text-decoration: none;
         }
-	
+
 	img {
           margin-right: 10px;
         }
@@ -187,7 +187,7 @@ section {
       font-weight:100;
     }
   }
-  iframe { 
+  iframe {
     margin-bottom:60px;
   }
 }
@@ -198,7 +198,7 @@ section {
   }
   h2 {
     margin-bottom:20px;
-    
+
     strong {
       font-weight:400;
     }
@@ -244,7 +244,7 @@ nav {
       padding-right: 18px;
       font-size: 14px;
       font-weight: 400;
-      a { 
+      a {
         padding-top: 10px;
         padding-bottom: 10px;
       }
@@ -323,7 +323,7 @@ nav {
     h2 {
       vertical-align: text-bottom;
       line-height:30px;
-    
+
       strong {
         padding-right: 10px;
         font-weight:100;
@@ -532,7 +532,15 @@ footer {
       margin:-30px auto 0 auto;
     }
   }
+}
 
+@media (max-width: @screen-xs-max) {
+  .helper {
+    padding-right:20px;
+    img {
+      left:-25px;
+    }
+  }
 }
 
 /* Parallax base styles
@@ -682,7 +690,7 @@ footer {
      img {
        margin-right:10px;
      }
-     strong { 
+     strong {
        font-weight:700;
      }
   }
