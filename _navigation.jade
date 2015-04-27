@@ -15,14 +15,14 @@ nav#navbar.navbar.navbar-default.navbar-fixed-top
             img.visible-xs.visible-md.logo(src="public/images/logo.kompedent.svg",alt="kompeDent Zahntechnik")
         #navbar.collapse.navbar-collapse.kompedent-navbar-collapse
           ul.nav.navbar-nav.kompedent-nav
+            li(class=current.source == "index" ? "active" : "")
+              a(href='/') Philosophie
             li(class=current.source == "kompetenz" ? "active" : "")
               a(href='/kompetenz.html') Kompetenz
             li(class=current.source == "service" ? "active" : "")
               a(href='/service.html') Service
             li(class=current.source == "experten" ? "active" : "")
               a(href='/experten.html') Experten
-            li(class=current.source == "index" ? "active" : "")
-              a(href='/') Philosophie
             li(class=current.source == "einblicke" ? "active" : "")
               a(href='/einblicke.html') Einblicke
             li(class=current.source == "kontakt" ? "active" : "")
