@@ -4,7 +4,9 @@
   "description": "webseite for kompedent",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "compile": "harp compile",
+    "server": "harp server"
   },
   "repository": {
     "type": "git",
