@@ -1,7 +1,7 @@
 doctype
 html(lang="de",class="wf-loading")
   head
-    link(href="/main.css",rel="stylesheet",type="text/css")
+    link(href="main.css",rel="stylesheet",type="text/css")
     title= title
     meta(name="description",content="#{ description }")
     meta(charset="utf-8")
@@ -25,38 +25,27 @@ html(lang="de",class="wf-loading")
     meta(property="og:type",content="article")
     meta(property="og:description",content="kompeDent Zahntechnik, Neuenstadt")
     meta(property="og:image",content="http://www.kompedent.de/public/images/logo.kompedent.png")
-
     style.
       .wf-loading * { visibility: hidden; }
       .wf-active * { visibility: visible; }
-      .wf-loading { background-image: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTM1IiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDEzNSAxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZiI+ICAgIDxyZWN0IHk9IjEwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTIwIiByeD0iNiI+ICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiICAgICAgICAgICAgIGJlZ2luPSIwLjVzIiBkdXI9IjFzIiAgICAgICAgICAgICB2YWx1ZXM9IjEyMDsxMTA7MTAwOzkwOzgwOzcwOzYwOzUwOzQwOzE0MDsxMjAiIGNhbGNNb2RlPSJsaW5lYXIiICAgICAgICAgICAgIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPiAgICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieSIgICAgICAgICAgICAgYmVnaW49IjAuNXMiIGR1cj0iMXMiICAgICAgICAgICAgIHZhbHVlcz0iMTA7MTU7MjA7MjU7MzA7MzU7NDA7NDU7NTA7MDsxMCIgY2FsY01vZGU9ImxpbmVhciIgICAgICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+ICAgIDwvcmVjdD4gICAgPHJlY3QgeD0iMzAiIHk9IjEwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTIwIiByeD0iNiI+ICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiICAgICAgICAgICAgIGJlZ2luPSIwLjI1cyIgZHVyPSIxcyIgICAgICAgICAgICAgdmFsdWVzPSIxMjA7MTEwOzEwMDs5MDs4MDs3MDs2MDs1MDs0MDsxNDA7MTIwIiBjYWxjTW9kZT0ibGluZWFyIiAgICAgICAgICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4gICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InkiICAgICAgICAgICAgIGJlZ2luPSIwLjI1cyIgZHVyPSIxcyIgICAgICAgICAgICAgdmFsdWVzPSIxMDsxNTsyMDsyNTszMDszNTs0MDs0NTs1MDswOzEwIiBjYWxjTW9kZT0ibGluZWFyIiAgICAgICAgICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4gICAgPC9yZWN0PiAgICA8cmVjdCB4PSI2MCIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE0MCIgcng9IjYiPiAgICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iaGVpZ2h0IiAgICAgICAgICAgICBiZWdpbj0iMHMiIGR1cj0iMXMiICAgICAgICAgICAgIHZhbHVlcz0iMTIwOzExMDsxMDA7OTA7ODA7NzA7NjA7NTA7NDA7MTQwOzEyMCIgY2FsY01vZGU9ImxpbmVhciIgICAgICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+ICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ5IiAgICAgICAgICAgICBiZWdpbj0iMHMiIGR1cj0iMXMiICAgICAgICAgICAgIHZhbHVlcz0iMTA7MTU7MjA7MjU7MzA7MzU7NDA7NDU7NTA7MDsxMCIgY2FsY01vZGU9ImxpbmVhciIgICAgICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+ICAgIDwvcmVjdD4gICAgPHJlY3QgeD0iOTAiIHk9IjEwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTIwIiByeD0iNiI+ICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiICAgICAgICAgICAgIGJlZ2luPSIwLjI1cyIgZHVyPSIxcyIgICAgICAgICAgICAgdmFsdWVzPSIxMjA7MTEwOzEwMDs5MDs4MDs3MDs2MDs1MDs0MDsxNDA7MTIwIiBjYWxjTW9kZT0ibGluZWFyIiAgICAgICAgICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4gICAgICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InkiICAgICAgICAgICAgIGJlZ2luPSIwLjI1cyIgZHVyPSIxcyIgICAgICAgICAgICAgdmFsdWVzPSIxMDsxNTsyMDsyNTszMDszNTs0MDs0NTs1MDswOzEwIiBjYWxjTW9kZT0ibGluZWFyIiAgICAgICAgICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgLz4gICAgPC9yZWN0PiAgICA8cmVjdCB4PSIxMjAiIHk9IjEwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTIwIiByeD0iNiI+ICAgICAgICA8YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiICAgICAgICAgICAgIGJlZ2luPSIwLjVzIiBkdXI9IjFzIiAgICAgICAgICAgICB2YWx1ZXM9IjEyMDsxMTA7MTAwOzkwOzgwOzcwOzYwOzUwOzQwOzE0MDsxMjAiIGNhbGNNb2RlPSJsaW5lYXIiICAgICAgICAgICAgIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiAvPiAgICAgICAgPGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieSIgICAgICAgICAgICAgYmVnaW49IjAuNXMiIGR1cj0iMXMiICAgICAgICAgICAgIHZhbHVlcz0iMTA7MTU7MjA7MjU7MzA7MzU7NDA7NDU7NTA7MDsxMCIgY2FsY01vZGU9ImxpbmVhciIgICAgICAgICAgICAgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIC8+ICAgIDwvcmVjdD48L3N2Zz4=); background-repeat:no-repeat; background-position:center center; background-size: 50px; height:100%; overflow: hidden; background-color:#004F9F; }
-
+      .wf-loading { background-image: url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTM1IiBoZWlnaHQ9IjE0MCIgdmlld0JveD0iMCAwIDEzNSAxNDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0iI2ZmZiI+PHJlY3QgeT0iMTAiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxMjAiIHJ4PSI2Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiIGJlZ2luPSIwLjVzIiBkdXI9IjFzIiB2YWx1ZXM9IjEyMDsxMTA7MTAwOzkwOzgwOzcwOzYwOzUwOzQwOzE0MDsxMjAiIGNhbGNNb2RlPSJsaW5lYXIiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIj48L2FuaW1hdGU+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0ieSIgYmVnaW49IjAuNXMiIGR1cj0iMXMiIHZhbHVlcz0iMTA7MTU7MjA7MjU7MzA7MzU7NDA7NDU7NTA7MDsxMCIgY2FsY01vZGU9ImxpbmVhciIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiPjwvYW5pbWF0ZT48L3JlY3Q+PHJlY3QgeD0iMzAiIHk9IjEwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTIwIiByeD0iNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iaGVpZ2h0IiBiZWdpbj0iMC4yNXMiIGR1cj0iMXMiIHZhbHVlcz0iMTIwOzExMDsxMDA7OTA7ODA7NzA7NjA7NTA7NDA7MTQwOzEyMCIgY2FsY01vZGU9ImxpbmVhciIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiPjwvYW5pbWF0ZT48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJ5IiBiZWdpbj0iMC4yNXMiIGR1cj0iMXMiIHZhbHVlcz0iMTA7MTU7MjA7MjU7MzA7MzU7NDA7NDU7NTA7MDsxMCIgY2FsY01vZGU9ImxpbmVhciIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiPjwvYW5pbWF0ZT48L3JlY3Q+PHJlY3QgeD0iNjAiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxNDAiIHJ4PSI2Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiIGJlZ2luPSIwcyIgZHVyPSIxcyIgdmFsdWVzPSIxMjA7MTEwOzEwMDs5MDs4MDs3MDs2MDs1MDs0MDsxNDA7MTIwIiBjYWxjTW9kZT0ibGluZWFyIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSI+PC9hbmltYXRlPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InkiIGJlZ2luPSIwcyIgZHVyPSIxcyIgdmFsdWVzPSIxMDsxNTsyMDsyNTszMDszNTs0MDs0NTs1MDswOzEwIiBjYWxjTW9kZT0ibGluZWFyIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSI+PC9hbmltYXRlPjwvcmVjdD48cmVjdCB4PSI5MCIgeT0iMTAiIHdpZHRoPSIxNSIgaGVpZ2h0PSIxMjAiIHJ4PSI2Ij48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJoZWlnaHQiIGJlZ2luPSIwLjI1cyIgZHVyPSIxcyIgdmFsdWVzPSIxMjA7MTEwOzEwMDs5MDs4MDs3MDs2MDs1MDs0MDsxNDA7MTIwIiBjYWxjTW9kZT0ibGluZWFyIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSI+PC9hbmltYXRlPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InkiIGJlZ2luPSIwLjI1cyIgZHVyPSIxcyIgdmFsdWVzPSIxMDsxNTsyMDsyNTszMDszNTs0MDs0NTs1MDswOzEwIiBjYWxjTW9kZT0ibGluZWFyIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSI+PC9hbmltYXRlPjwvcmVjdD48cmVjdCB4PSIxMjAiIHk9IjEwIiB3aWR0aD0iMTUiIGhlaWdodD0iMTIwIiByeD0iNiI+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iaGVpZ2h0IiBiZWdpbj0iMC41cyIgZHVyPSIxcyIgdmFsdWVzPSIxMjA7MTEwOzEwMDs5MDs4MDs3MDs2MDs1MDs0MDsxNDA7MTIwIiBjYWxjTW9kZT0ibGluZWFyIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSI+PC9hbmltYXRlPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InkiIGJlZ2luPSIwLjVzIiBkdXI9IjFzIiB2YWx1ZXM9IjEwOzE1OzIwOzI1OzMwOzM1OzQwOzQ1OzUwOzA7MTAiIGNhbGNNb2RlPSJsaW5lYXIiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIj48L2FuaW1hdGU+PC9yZWN0Pjwvc3ZnPg=='); background-repeat: no-repeat; background-position: center center; background-size: 50px; height: 100%; overflow: hidden; background-color: #004F9F; }
     link(rel="icon",href="favicon.ico",type="image/x-icon")
     link(rel="shortcut icon",href="favicon.ico",type="image/x-icon")
-
     link(rel="apple-touch-icon",href="public/images/icons/ios/AppIcon.appiconset/Icon-60@2x.png")
     link(rel="apple-touch-icon",sizes="180x180",href="public/images/icons/ios/AppIcon.appiconset/Icon-60@3x.png")
     link(rel="apple-touch-icon",sizes="76x76",href="public/images/icons/ios/AppIcon.appiconset/Icon-76.png")
     link(rel="apple-touch-icon",sizes="152x152",href="public/images/icons/ios/AppIcon.appiconset/Icon-76@2x.png")
     link(rel="apple-touch-icon",sizes="58x58",href="public/images/icons/ios/AppIcon.appiconset/Icon-Small@2x.png")
     link(rel="icon",sizes="192x192",href="public/images/icons/drawable-xxxhdpi/ic_launcher.png")
-
-    script(src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js",async)
-    script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js",async)
-
     // [if lt IE 9]
     script(src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js",async)
     script(src="//oss.maxcdn.com/respond/1.4.2/respond.min.js",async)
     // [endif]
   body
     a(name="top",id="top")
-
-
     include _navigation.jade
-
     #content
       != yield
-
     if current.source != "index"
       .container
         footer
@@ -70,13 +59,14 @@ html(lang="de",class="wf-loading")
             .col-lg-12
               include _footer.jade
 
-    script(src = "main.min.js",async)
-
+    script(src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js")
+    script(src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js",async)
+    script(src="main.js", onload="init()")
     script.
       WebFontConfig = {
-        google: { families: [ 'Source+Sans+Pro:100,200,400,700,700italic:latin' ] }
+        google: {families: ['Source+Sans+Pro:100,200,400,700,700italic:latin']}
       };
-      (function() {
+      (function () {
         var wf = document.createElement('script');
         wf.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
         wf.type = 'text/javascript';
