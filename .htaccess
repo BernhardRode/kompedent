@@ -10,3 +10,7 @@ ExpiresByType text/javascript "access plus 1 month 1 week"
 ExpiresByType application/x-javascript "access plus 1 month 1 days"
 ExpiresByType text/xml "access plus 1 seconds"
 </IfModule>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</IfModule>
