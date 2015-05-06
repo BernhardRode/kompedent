@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 141.7 141.7" enable-background="new 0 0 141.7 141.7" xml:space="preserve">
-<g>
-	<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M70.8,88.8L70.8,88.8H71l35.6-35.6l-4.1-4.1L70.9,80.7L39.3,49.1
-		l-4.1,4.1L70.8,88.8z M32.4,93.2V48.9c0-1.9,1.6-3.5,3.5-3.5h70.6c1.9,0,3.5,1.6,3.5,3.5v44.3c0,1.9-1.6,3.5-3.5,3.5H35.9
-		C33.9,96.7,32.4,95.1,32.4,93.2z"/>
-	<path fill="#FFFFFF" d="M71.2,134.9c-35.2,0-63.9-28.7-63.9-63.9c0-35.2,28.7-63.9,63.9-63.9s63.9,28.7,63.9,63.9
-		C135.1,106.3,106.4,134.9,71.2,134.9z M71.2,16.1c-30.3,0-54.9,24.7-54.9,55c0,30.3,24.6,54.9,54.9,54.9s54.9-24.6,54.9-54.9
-		C126.1,40.7,101.5,16.1,71.2,16.1z"/>
-</g>
-</svg>
+<svg version="1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 141.7 141.7" enable-background="new 0 0 141.7 141.7"><g fill="#fff"><path fill-rule="evenodd" clip-rule="evenodd" d="M70.8 88.8h.2l35.6-35.6-4.1-4.1-31.6 31.6-31.6-31.6-4.1 4.1 35.6 35.6zm-38.4 4.4v-44.3c0-1.9 1.6-3.5 3.5-3.5h70.6c1.9 0 3.5 1.6 3.5 3.5v44.3c0 1.9-1.6 3.5-3.5 3.5h-70.6c-2 0-3.5-1.6-3.5-3.5z"/><path d="M71.2 134.9c-35.2 0-63.9-28.7-63.9-63.9s28.7-63.9 63.9-63.9 63.9 28.7 63.9 63.9c0 35.3-28.7 63.9-63.9 63.9zm0-118.8c-30.3 0-54.9 24.7-54.9 55s24.6 54.9 54.9 54.9 54.9-24.6 54.9-54.9c0-30.4-24.6-55-54.9-55z"/></g></svg>
