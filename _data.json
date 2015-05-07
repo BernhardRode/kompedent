@@ -3,10 +3,11 @@
     "title": "kompedent - Zahntechnik",
     "description": "I am awesome and so are you",
     "logo": "public/images/kompetenz/kompetenz.keramik.002.jpg"
+    "color": "#004F9F"
   },
   "kompetenz": {
     "title": "Kompetenz",
-    "description": "Unseree Kompetenzbereiche",
+    "description": "Unsere Kompetenzbereiche",
     "kompetenzen": [
       {
         "name": "Keramik",
