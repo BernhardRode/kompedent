@@ -2,7 +2,7 @@
   "globals": {
     "title": "kompedent - Zahntechnik",
     "description": "I am awesome and so are you",
-    "logo": "public/images/kompetenz/kompetenz.keramik.002.jpg"
+    "logo": "public/images/kompetenz/kompetenz.keramik.002.jpg",
     "color": "#004F9F"
   },
   "kompetenz": {
