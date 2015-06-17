@@ -26,5 +26,19 @@ div.container.content
               li
                 img(src='public/images/icon.telefon.schwarz.svg',width="32",height="32")
                 strong= experte.telefon
-            p(style="margin-top:15px;")= experte.beschreibung
+            div(style="margin-top:15px;") &nbsp;
+            if experte.vita.length > 0
+              div
+                h5 Werdegang
+                dl.dl-horizontal
+                  for ereignis in experte.vita
+                    dt= ereignis.zeitraum
+                    dd= ereignis.text
+            if experte.fortbildungen.length > 0
+              div
+                h5 Fortbildungen
+                ul
+                  for fortbildung in experte.fortbildungen
+                    li= fortbildung
 
+            p= experte.beschreibung

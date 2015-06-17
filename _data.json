@@ -12,47 +12,48 @@
       {
         "name": "Keramik",
         "anchor":"keramik",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"erblendkeramik auf EM / NEM / Zirkon. Vollkeramik gepresst, gefräst, geschichtet.  Die Restaurationen werden individuell mit zahntechnischem Geschick natürlich und einzigartig hergestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.keramik.001.jpg",
           "public/images/kompetenz/kompetenz.keramik.002.jpg"
         ],
         "merkmale": [
-          "Merkmal1",
-          "Merkmal2",
-          "Merkmal3"
+          "natürlich/ästhetisch",
+          "einzigartig",
+          "funktionell"
         ]
       },{
         "name": "Implantattechnik",
         "anchor":"implantattechnik",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"Nach individueller Ausgangslage fertigen wir in großer Materialvielfalt Kronen, Brücken, festsitzender und herausnehmbarer Zahnersatz auf allen gängigen Implantatsystemen. (Camlog, Stromann, Fialit ...)",
         "bilder": [
           "public/images/kompetenz/kompetenz.implantattechnik.001.jpg",
           "public/images/kompetenz/kompetenz.implantattechnik.002.jpg",
           "public/images/kompetenz/kompetenz.implantattechnik.003.jpg"
         ],
         "merkmale": [
-          "Merkmal1",
-          "Merkmal2",
-          "Merkmal3"
+          "einzeln",
+          "mehrfach",
+          "festsitzend",
+          "herausnehmbar"
         ]
       },{
-        "name": "CAD/CAM & Scanner",
+        "name": "CAD/CAM",
         "anchor":"cadcam",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"Neueste Technik in der Herstellung von Zahnersatz. Präzision durch Technik, Ästhetik, Natürlichkeit und Individualität von Zahntechnikerhand.",
         "bilder": [
           "public/images/kompetenz/kompetenz.cadcam.001.jpg",
           "public/images/kompetenz/kompetenz.cadcam.002.jpg"
         ],
         "merkmale": [
-          "Merkmal1",
-          "Merkmal2",
-          "Merkmal3"
+          "innovative Zahntechnik",
+          "digitale Präzision",
+          "Materialvielfalt"
         ]
       },{
-        "name": "Galvanotechnik",
-        "anchor":"galvanotechnik",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "name": "Kombitechnik",
+        "anchor":"kombitechnik",
+        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zivkon, gegossen oder gefräst. Sekundärteile galvanisch, Edelmetall gegossen, nicht Edelmetall gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.galvano.001.jpg",
           "public/images/kompetenz/kompetenz.galvano.002.jpg",
@@ -60,33 +61,33 @@
           "public/images/kompetenz/kompetenz.galvano.004.jpg"
         ],
         "merkmale": [
-          "Merkmal1",
-          "Merkmal2",
-          "Merkmal3"
+          "Komfortabel",
+          "vielfältig",
+          "dauerhaft"
         ]
       },{
         "name": "Kunststoffprothetik",
         "anchor":"kunststoffprothetik",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"Ästhetik und Funktion. Mundbeständig und biokompatibel, sowie zahntechnisches Können sind die Grundlagen für einen guten Zahnersatz.",
         "bilder": [
           "public/images/kompetenz/kompetenz.kunststoff.001.jpg"
         ],
         "merkmale": [
-          "Merkmal1",
-          "Merkmal2",
-          "Merkmal3"
+          "Natürlichkeit",
+          "Funktion",
+          "Beständigkeit"
         ]
       },{
-        "name": "Reparatur",
-        "anchor":"reparatur",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "name": "Wiederherstellung",
+        "anchor":"wiederherstellung",
+        "beschreibung":"Solange eine Wiederherstellung medizinisch und wirtschaftlich sinnvoll erscheint, reparieren und pflegen wir Ihren Zahnersatz gemeinsam mit Ihrem Zahnarzt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.reparatur.001.jpg"
         ],
         "merkmale": [
-          "Merkmal1",
-          "Merkmal2",
-          "Merkmal3"
+          "schnell",
+          "sinnvoll",
+          "gepflegt"
         ]
       }
     ]
@@ -97,28 +98,28 @@
     "arbeitsweisen": [
       {
         "anchor":"beratung",
-        "name": "Individuelle Patientenberatung",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "name": "Patientenberatung / Planung",
+        "beschreibung":"Zahnarzt, Patient und Zahntechniker suchen im gemeinsamen Gespräch die optimalste Lösung bei der die Wünsche und Möglichkeiten des Patienten an erster Stelle stehen. Ästethisch, funktionell, wirtschaftlich, nachhaltig.",
         "bild": "public/images/arbeitsweise/arbeitsweise.beratung.jpg"
       },{
         "anchor":"farbe",
-        "name": "Individuelle Farbabnahme",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "name": "Farbnahme am Patienten",
+        "beschreibung":"Zu hell, zu dunkel? Beides fällt auf. Mit digitaler Fotografie und individueller Farbmessung ermitteln wir direkt am Patient die natürliche Zahnfarbe.",
         "bild": "public/images/arbeitsweise/arbeitsweise.farbe.jpg"
       },{
-        "anchor":"anprobe",
-        "name": "Anprobe",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "anchor":"einprobe",
+        "name": "Einprobe",
+        "beschreibung":"So einzigartig wie der Patient ist auch sein Zahnersatz. Bei verschiedenen Einproben wird die Passung, die Funktion und das natürliche Aussehen am Patient überprüft und gegebenenfalls korrigiert. Am Ende steht das problemlose Einsetzen des fertigen Zahnersatzes.",
         "bild": "public/images/arbeitsweise/arbeitsweise.anprobe.jpg"
       },{
-        "anchor":"kruier",
+        "anchor":"kurierservice",
         "name": "Kurierservice",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"Mit unserem laboreigenen Botenfahrzeug holen wir die Arbeiten direkt in der Praxis ab und bringen sie pünktlich wieder zurück. Keine Abhängigkeit von Post, Paketdienste usw. Termingerecht und pünktlich.",
         "bild": "public/images/arbeitsweise/arbeitsweise.kurier.jpg"
       },{
-        "anchor":"garantie",
-        "name": "Garantie",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "anchor":"gewqehrleistung",
+        "name": "Gewährleistung",
+        "beschreibung":"Bei uns erhalten Sie auf die erbrachten Leistungen und Materialien 5 Jahre Garantie, wenn der Zahnersatz sachgemäß gepflegt und regelmäßig durch den Zahnarzt kontrolliert wurde. Eine regelmäßige Kontrolle muss hierzu alle 6 Monate durch den Zahnarzt erfolgen.",
         "bild": "public/images/arbeitsweise/arbeitsweise.garantie.jpg"
       }
     ]
@@ -133,22 +134,22 @@
         "telefon":"0 71 39 _ 45 66 66",
         "email":"Hartmut.Susset@kompedent-zt.de",
         "bild":"public/images/experte/hartmut.susset.jpg",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"",
+        "vita" : [
+          { "zeitraum": "1978 - 82", "text": "Ausbildung zum Zahntechniker" },
+          { "zeitraum": "1982 - 83 ", "text": "Zahnarzthelfer bei BW" },
+          { "zeitraum": "1983 - 94 ", "text": "Erfahrungen im Praxislabor" },
+          { "zeitraum": "1992 – 93", "text": "Meisterschule in Karlsruhe (berufsbegleitend)" },
+          { "zeitraum": "1994", "text": "selbstständiger Zahntechnikmeister DuoDent Zahntechnik Heilbronn" },
+          { "zeitraum": "1999", "text": "Gründung „kompeDent Zahntechnik“ in Neuenstadt" },
+          { "zeitraum": "2004-2006", "text": "Studium zum Master of Science Dentale Technologie - PUSH-Donau-Universität Krems" }
+        ],
+        "fortbildungen" : [
+        ],
         "aufgaben":[
-          "Planung",
-          "Kundenberatung & Service",
-          "Qualitätssicherung"
-        ]
-      },{
-        "vorname":"Silvia",
-        "nachname":"Hirche",
-        "telefon":"0 71 39 _ 45 66 66",
-        "email":"Silvia.Hirche@kompedent-zt.de",
-        "bild":"public/images/experte/silvia.hirche.jpg",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
-        "aufgaben":[
-          "Keramik",
-          "Implanattechnik"
+          "Patienten-/Kundenberatung",
+          "Planung & Kalkulation",
+          "Dokumentation"
         ]
       },{
         "vorname":"Michael",
@@ -156,23 +157,63 @@
         "telefon":"0 71 39 _ 45 66 66",
         "email":"Michael.Gerner@kompedent-zt.de",
         "bild":"public/images/experte/michael.gerner.jpg",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"seit 2000 bei kompeDent",
+        "vita" : [
+          { "zeitraum": "1994 – 1998", "text": "Ausbildung zum Zahntechniker" },
+          { "zeitraum": "1998 – 2000", "text": "Erfahrungen im Praxislabor" }
+        ],
+        "fortbildungen" : [
+          "CAD/CAM – Expert-Kurs (Strautmann)",
+          "Galvanotechnik (Hofner)",
+          "Keramikkurse (Heraeus / Paul Fiechter)",
+          "Digitale Dentalfotografie am Patient"
+        ],
+        "aufgaben":[
+          "CAD/CAM",
+          "Implantattechnik",
+          "Kombitechnik"
+        ]
+      },{
+        "vorname":"Silvia",
+        "nachname":"Hirche",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"Silvia.Hirche@kompedent-zt.de",
+        "bild":"public/images/experte/silvia.hirche.jpg",
+        "beschreibung":"seit 2002 bei kompeDent",
+        "vita" : [
+          { "zeitraum": "1985 – 1989", "text": "Ausbildung zur Zahntechnikerin" },
+          { "zeitraum": "1989 – 2001", "text": "Erfahrungen in verschiedenen Dentallaboren" }
+        ],
+        "fortbildungen" : [
+          "Keramikkurse (Mütherthies, Braunwarth, Ivoclar, Paul Fiechter)",
+          "CAD/CAM (Straumann)",
+          "Digitale Dentalfotografie am Patient"
+        ],
         "aufgaben":[
           "Keramik",
-          "Implanattechnik",
-          "Individuelle Farbbestimmung",
-          "Cad/CAM"
+          "Ästhetik",
+          "Farbnahme"
         ]
       },{
         "vorname":"Eva",
-        "nachname":"Gajweski",
+        "nachname":"Gajewski",
         "telefon":"0 71 39 _ 45 66 66",
         "email":"Eva.Gajweski@kompedent-zt.de",
         "bild":"public/images/experte/eva.gajweski.jpg",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"seit 2004 bei kompeDent",
+        "vita" : [
+          { "zeitraum": "1973 – 1975", "text": "Ausbildung zur Zahntechnikerin" },
+          { "zeitraum": "1975 – 1983", "text": "Erfahrungen im Dentallabor" },
+          { "zeitraum": "1983 – 1989", "text": "Praxislabor" },
+          { "zeitraum": "1989 – 2003", "text": "Praxislabor für Kieferorthopädie Dr. Corteville" },
+          { "zeitraum": "2003 – 2004", "text": "Dentallabor Stahl" }
+        ],
+        "fortbildungen" : [
+        ],
         "aufgaben":[
-          "Individuelle Kunststoffprothethik",
-          "Reparatur"
+          "Wiederherstellungen",
+          "Schienentechnik",
+          "Kunststoffprothetik"
         ]
       },{
         "vorname":"Sandra",
@@ -180,10 +221,37 @@
         "telefon":"0 71 39 _ 45 66 66",
         "email":"Sandra.Knapp@kompedent-zt.de",
         "bild":"public/images/experte/sandra.knapp.jpg",
-        "beschreibung":"Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung":"seit 2000 bei kompeDent",
+        "vita" : [
+          { "zeitraum": "1993 – 1996", "text": "Ausbildung zur zahnmedizinischen Fachangestellten" },
+          { "zeitraum": "1996 – 2000", "text": "Erfahrung in ZA als ZMF" }
+        ],
+        "fortbildungen" : [
+          "Hygienekurs",
+          "Modellherstellung",
+          "Datenverarbeitung/EDV"
+        ],
         "aufgaben":[
+          "Kurierdienst",
           "Arbeitsvorbereitung",
-          "Kurierservice"
+          "Hygiene"
+        ]
+      },{
+        "vorname":"Astrid",
+        "nachname":"Bossen-Wetterauen",
+        "telefon":"0 71 39 _ 45 66 66",
+        "email":"astrid.bossen-wetterauen@kompedent-zt.de",
+        "bild":"public/images/experte/sandra.knapp.jpg",
+        "beschreibung":"seit April 2015 bei kompeDent ",
+        "vita" : [
+          { "zeitraum": "1989 – 2002", "text": "Ausbildung zur Zahntechnikerin" },
+          { "zeitraum": "2002 – 2015", "text": "Erfahrung in verschiedenen Dentallaboren" }
+        ],
+        "fortbildungen" : [
+        ],
+        "aufgaben":[
+          "Kunststoffprothetik",
+          "Wiederherstellungen"
         ]
       }
     ]
@@ -197,28 +265,28 @@
         "titel": "Weil es unsere <br/><strong>Verantwortung</strong> ist.",
         "bild": "public/images/landing/001.jpg",
         "untertitel": "Das Beste an echter<br/>Handarbeit? Die Qualität.",
-        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung": "Die moderne Zahnmedizin steht für Funktion und Ästhetik. Das garantiert jedem Patienten ein Höchstmaß an Lebensqualität! Für die Erfüllung dieser Ansprüche ist unser ganzes handwerkliches Geschick gefragt. In enger Zusammenarbeit mit Ihrem Zahnarzt finden wir gemeinsam die bestmöglichen Lösungen zahntechnischer Meisterleistung.",
         "scrollen": true
       },
       "herkunft": {
         "titel": "Darauf bauen<br/><strong>Wir</strong> auf.",
         "bild": "public/images/landing/002.jpg",
         "untertitel": "Allein die Herkunft sagt<br/>viel über die Qualität aus.",
-        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung": "kompeDent setzt konsequent auf ‚Made in Germany’ und auf meisterhafte Zahntechnik: Das bedeutet hervorragend ausgebildete Zahntechniker mit Erfahrung und Liebe zum Beruf, sowie modernste Geräte und beste Materialien. Wir setzen auf unsere vetrauensvollen Lieferanten und Kooperationspartner.",
         "scrollen": true
       },
       "region": {
-        "titel": "Kompetent. Vor Ort.<br/><strong>Regional.</strong>",
+        "titel": "Unsere Region ist stark.<br/><strong>Das nutzen wir.</strong>",
         "bild": "public/images/landing/003.jpg",
         "untertitel": "Unsere Region ist stark.<br/>Das nutzen wir.",
-        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung": "Persönlicher Kontakt. Regionale Nähe. Keine Fernostzahntechnik.",
         "scrollen": true
       },
       "team": {
-        "titel": "Alles. Gemeinsam.<br/><strong>Im Team.</strong>",
+        "titel": "Werte schaffen.<br/><strong>Experten für Sie.</strong>",
         "bild": "public/images/landing/004.jpg",
         "untertitel": "Werte Schaffen.<br/>Experten für Sie.",
-        "beschreibung": "Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären, Freilebende Gummibären",
+        "beschreibung": "Regelmäßige Fortbildungen und Schulungen, stete Weiterentwicklung und dauerhaftes Lernen. Optimale Zusammenarbeit zwischen Zahnarzt und Zahntechniker, beste Materialien und gelerntes Handwerk sind die Voraussetzungen für einen nachhaltigen Zahnersatz. Bei sachgemäßer Pflege und regelmäßiger Kontrolle durch den Zahnarzt, d.h. alle 6 Monate Zahnersatzkontrolle, erhalten sie auf die von uns erbachten Leistungen und Materialien eine Gewährleistung von 5 Jahren.",
         "scrollen": true
       }
     }
