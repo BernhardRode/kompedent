@@ -23,19 +23,23 @@ div.container.content
               li
                 img(src='public/images/icon.email.schwarz.svg',width="32",height="32")
                 strong= experte.email
-            div(style="margin-top:15px;") &nbsp;
-            if experte.vita.length > 0
-              div
-                h5 Werdegang
-                dl.dl-horizontal
-                  for ereignis in experte.vita
-                    dt= ereignis.zeitraum
-                    dd= ereignis.text
-            if experte.fortbildungen.length > 0
-              div
-                h5 Fortbildungen
-                ul
-                  for fortbildung in experte.fortbildungen
-                    li= fortbildung
+            div(style="margin-top:15px;")
+              p= experte.beschreibung
 
-            p= experte.beschreibung
+            .row
+              .col-lg-6
+                if experte.vita.length > 0
+                  div
+                    h5 Werdegang
+                    dl.dl-horizontal
+                      for ereignis in experte.vita
+                        dt= ereignis.zeitraum
+                        dd= ereignis.text
+              .col-lg-6
+                if experte.fortbildungen.length > 0
+                  div
+                    h5 Fortbildungen
+                    ul
+                      for fortbildung in experte.fortbildungen
+                        li= fortbildung
+
