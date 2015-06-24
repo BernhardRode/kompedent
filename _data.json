@@ -12,7 +12,7 @@
       {
         "name": "Keramik",
         "anchor":"keramik",
-        "beschreibung":"Verblendkeramik auf EM / NEM / Zirkon. Vollkeramik gepresst, gefräst, geschichtet.  Die Restaurationen werden individuell mit zahntechnischem Geschick natürlich und einzigartig hergestellt.",
+        "beschreibung":"Verblendkeramik auf EM / NEM / Zirkon. Vollkeramik gepresst, gefräst, geschichtet. Die Restaurationen werden individuell mit zahntechnischem Geschick natürlich und einzigartig hergestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.keramik.001.jpg",
           "public/images/kompetenz/kompetenz.keramik.002.jpg"
@@ -53,7 +53,7 @@
       },{
         "name": "Kombitechnik",
         "anchor":"kombitechnik",
-        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zivkon, gegossen oder gefräst. Sekundärteile galvanisch, Edelmetall gegossen, nicht Edelmetall gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
+        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zivkon, gegossen oder gefräst.<br/>Sekundärteile galvanisch, Edelmetall gegossen, nicht Edelmetall gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.galvano.001.jpg",
           "public/images/kompetenz/kompetenz.galvano.002.jpg",
