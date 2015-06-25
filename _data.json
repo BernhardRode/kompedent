@@ -155,7 +155,7 @@
         "vorname":"Michael",
         "nachname":"Gerner",
         "telefon":"0 71 39 _ 45 66 66",
-        "email":"Michael.Gerner@kompedent-zt.de",
+        "email":"Hans-Michael.Gerner@kompedent-zt.de",
         "bild":"public/images/experte/michael.gerner.jpg",
         "beschreibung":"seit 2000 bei kompeDent",
         "vita" : [
@@ -241,7 +241,7 @@
         "nachname":"Bossen-Wetterauen",
         "telefon":"0 71 39 _ 45 66 66",
         "email":"astrid.bossen-wetterauen@kompedent-zt.de",
-        "bild":"public/images/experte/sandra.knapp.jpg",
+        "bild":"public/images/experte/astrid.bossen.jpg",
         "beschreibung":"seit April 2015 bei kompeDent ",
         "vita" : [
           { "zeitraum": "1989 – 2002", "text": "Ausbildung zur Zahntechnikerin" },
