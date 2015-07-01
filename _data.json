@@ -25,7 +25,7 @@
       },{
         "name": "Implantattechnik",
         "anchor":"implantattechnik",
-        "beschreibung":"Nach individueller Ausgangslage fertigen wir in großer Materialvielfalt Kronen, Brücken, festsitzender und herausnehmbarer Zahnersatz auf allen gängigen Implantatsystemen. (Camlog, Stromann, Fialit ...)",
+        "beschreibung":"Nach individueller Ausgangslage fertigen wir in großer Materialvielfalt Kronen, Brücken, festsitzenden und herausnehmbaren Zahnersatz auf allen gängigen Implantatsystemen (Camlog, Stromann, Fialit ...).",
         "bilder": [
           "public/images/kompetenz/kompetenz.implantattechnik.001.jpg",
           "public/images/kompetenz/kompetenz.implantattechnik.002.jpg",
@@ -53,7 +53,7 @@
       },{
         "name": "Kombitechnik",
         "anchor":"kombitechnik",
-        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zivkon, gegossen oder gefräst.<br/>Sekundärteile galvanisch, Edelmetall gegossen, nicht Edelmetall gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
+        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zirkon, gegossen oder gefräst.<br/>Sekundärteleskope galvanisch, gegossen oder in NE gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.galvano.001.jpg",
           "public/images/kompetenz/kompetenz.galvano.002.jpg",
@@ -61,14 +61,14 @@
           "public/images/kompetenz/kompetenz.galvano.004.jpg"
         ],
         "merkmale": [
-          "Komfortabel",
+          "komfortabel",
           "vielfältig",
           "dauerhaft"
         ]
       },{
         "name": "Kunststoffprothetik",
         "anchor":"kunststoffprothetik",
-        "beschreibung":"Ästhetik und Funktion. Mundbeständig und biokompatibel, sowie zahntechnisches Können sind die Grundlagen für einen guten Zahnersatz.",
+        "beschreibung":"Ästhetik und Funktion. Mundbeständig und biokompatibel sowie zahntechnisches Können sind die Grundlagen für einen guten Zahnersatz.",
         "bilder": [
           "public/images/kompetenz/kompetenz.kunststoff.001.jpg"
         ],
@@ -99,12 +99,12 @@
       {
         "anchor":"beratung",
         "name": "Patientenberatung / Planung",
-        "beschreibung":"Zahnarzt, Patient und Zahntechniker suchen im gemeinsamen Gespräch die optimalste Lösung bei der die Wünsche und Möglichkeiten des Patienten an erster Stelle stehen. Ästethisch, funktionell, wirtschaftlich, nachhaltig.",
+        "beschreibung":"Zahnarzt, Patient und Zahntechniker suchen im gemeinsamen Gespräch die optimalste Lösung, bei der die Wünsche und Möglichkeiten des Patienten an erster Stelle stehen. Ästethisch, funktionell, wirtschaftlich, nachhaltig.",
         "bild": "public/images/arbeitsweise/arbeitsweise.beratung.jpg"
       },{
         "anchor":"farbe",
         "name": "Farbnahme am Patienten",
-        "beschreibung":"Zu hell, zu dunkel? Beides fällt auf. Mit digitaler Fotografie und individueller Farbmessung ermitteln wir direkt am Patient die natürliche Zahnfarbe.",
+        "beschreibung":"Zu hell, zu dunkel? Beides fällt auf. Mit digitaler Fotografie und individueller Farbmessung ermitteln wir direkt am Patienten die natürliche Zahnfarbe.",
         "bild": "public/images/arbeitsweise/arbeitsweise.farbe.jpg"
       },{
         "anchor":"einprobe",
@@ -163,8 +163,8 @@
           { "zeitraum": "1998 – 2000", "text": "Erfahrungen im Praxislabor" }
         ],
         "fortbildungen" : [
-          "CAD/CAM – Expert-Kurs (Strautmann)",
-          "Galvanotechnik (Hofner)",
+          "CAD/CAM – Expert-Kurs (Straumann)",
+          "Galvanotechnik (Hafner)",
           "Keramikkurse (Heraeus / Paul Fiechter)",
           "Digitale Dentalfotografie am Patient"
         ],
