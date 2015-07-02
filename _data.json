@@ -53,7 +53,7 @@
       },{
         "name": "Kombitechnik",
         "anchor":"kombitechnik",
-        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zirkon, gegossen oder gefräst.<br/>Sekundärteleskope galvanisch, gegossen oder in NE gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
+        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zirkon, gegossen oder gefräst. Sekundärteleskope galvanisch, gegossen oder in NE gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.galvano.001.jpg",
           "public/images/kompetenz/kompetenz.galvano.002.jpg",
@@ -155,7 +155,8 @@
         "vorname":"Michael",
         "nachname":"Gerner",
         "telefon":"0 71 39 _ 45 66 66",
-        "email":"Hans-Michael.Gerner@kompedent-zt.de",
+        "email":"laborinfo@kompedent-zt.de",
+        "email2":"Hans-Michael.Gerner@kompedent-zt.de",
         "bild":"public/images/experte/michael.gerner.jpg",
         "beschreibung":"seit 2000 bei kompeDent",
         "vita" : [
@@ -177,7 +178,8 @@
         "vorname":"Silvia",
         "nachname":"Hirche",
         "telefon":"0 71 39 _ 45 66 66",
-        "email":"Silvia.Hirche@kompedent-zt.de",
+        "email":"laborinfo@kompedent-zt.de",
+        "email2":"Silvia.Hirche@kompedent-zt.de",
         "bild":"public/images/experte/silvia.hirche.jpg",
         "beschreibung":"seit 2002 bei kompeDent",
         "vita" : [
@@ -198,7 +200,8 @@
         "vorname":"Eva",
         "nachname":"Gajewski",
         "telefon":"0 71 39 _ 45 66 66",
-        "email":"Eva.Gajweski@kompedent-zt.de",
+        "email":"laborinfo@kompedent-zt.de",
+        "email2":"Eva.Gajweski@kompedent-zt.de",
         "bild":"public/images/experte/eva.gajweski.jpg",
         "beschreibung":"seit 2004 bei kompeDent",
         "vita" : [
@@ -219,7 +222,8 @@
         "vorname":"Sandra",
         "nachname":"Knapp",
         "telefon":"0 71 39 _ 45 66 66",
-        "email":"Sandra.Knapp@kompedent-zt.de",
+        "email":"laborinfo@kompedent-zt.de",
+        "email2":"Sandra.Knapp@kompedent-zt.de",
         "bild":"public/images/experte/sandra.knapp.jpg",
         "beschreibung":"seit 2000 bei kompeDent",
         "vita" : [
@@ -240,7 +244,8 @@
         "vorname":"Astrid",
         "nachname":"Bossen-Wetterauen",
         "telefon":"0 71 39 _ 45 66 66",
-        "email":"astrid.bossen-wetterauen@kompedent-zt.de",
+        "email":"laborinfo@kompedent-zt.de",
+        "email2":"astrid.bossen-wetterauen@kompedent-zt.de",
         "bild":"public/images/experte/astrid.bossen.jpg",
         "beschreibung":"seit April 2015 bei kompeDent ",
         "vita" : [
