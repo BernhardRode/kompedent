@@ -25,7 +25,7 @@
       },{
         "name": "Implantattechnik",
         "anchor":"implantattechnik",
-        "beschreibung":"Nach individueller Ausgangslage fertigen wir in großer Materialvielfalt Kronen, Brücken, festsitzenden und herausnehmbaren Zahnersatz auf allen gängigen Implantatsystemen (Camlog, Stromann, Fialit ...).",
+        "beschreibung":"Nach individueller Ausgangslage fertigen wir in großer Materialvielfalt Kronen, Brücken, festsitzenden und herausnehmbaren Zahnersatz auf allen gängigen Implantatsystemen (Camlog, Straumann, Frialit ...).",
         "bilder": [
           "public/images/kompetenz/kompetenz.implantattechnik.001.jpg",
           "public/images/kompetenz/kompetenz.implantattechnik.002.jpg",
@@ -53,7 +53,7 @@
       },{
         "name": "Kombitechnik",
         "anchor":"kombitechnik",
-        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskop aus EM/NEM/Zirkon, gegossen oder gefräst. Sekundärteleskope galvanisch, gegossen oder in NE gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
+        "beschreibung":"Die Kombitechnik bietet eine große Materialvielfalt. (Gestaltungsmöglichkeiten, Variationen) Primärteleskope aus EM/NEM/Zirkon, gegossen oder gefräst. Sekundärteleskope galvanisch, gegossen oder in NE gefräst. Das Tertiärgerüst wird ästhetisch mit Composit verblendet und fertiggestellt.",
         "bilder": [
           "public/images/kompetenz/kompetenz.galvano.001.jpg",
           "public/images/kompetenz/kompetenz.galvano.002.jpg",
@@ -68,7 +68,7 @@
       },{
         "name": "Kunststoffprothetik",
         "anchor":"kunststoffprothetik",
-        "beschreibung":"Ästhetik und Funktion. Mundbeständig und biokompatibel sowie zahntechnisches Können sind die Grundlagen für einen guten Zahnersatz.",
+        "beschreibung":"Ästhetisch funktionell, mundbeständig und biokompatibel sowie zahntechnisches Können sind die Grundlagen für einen guten Zahnersatz.",
         "bilder": [
           "public/images/kompetenz/kompetenz.kunststoff.001.jpg"
         ],
@@ -228,7 +228,7 @@
         "beschreibung":"seit 2000 bei kompeDent",
         "vita" : [
           { "zeitraum": "1993 – 1996", "text": "Ausbildung zur zahnmedizinischen Fachangestellten" },
-          { "zeitraum": "1996 – 2000", "text": "Erfahrung in ZA als ZMF" }
+          { "zeitraum": "1996 – 2000", "text": "Erfahrung in ZA-Praxis als ZMF" }
         ],
         "fortbildungen" : [
           "Hygienekurs",
@@ -242,7 +242,7 @@
         ]
       },{
         "vorname":"Astrid",
-        "nachname":"Bossen-Wetterauen",
+        "nachname":"Bossen-Wetterauer",
         "telefon":"0 71 39 _ 45 66 66",
         "email":"laborinfo@kompedent-zt.de",
         "email2":"astrid.bossen-wetterauen@kompedent-zt.de",
@@ -270,14 +270,14 @@
         "titel": "Weil es unsere <br/><strong>Verantwortung</strong> ist.",
         "bild": "public/images/landing/001.jpg",
         "untertitel": "Das Beste an echter<br/>Handarbeit? Die Qualität.",
-        "beschreibung": "Die moderne Zahnmedizin steht für Funktion und Ästhetik. Das garantiert jedem Patienten ein Höchstmaß an Lebensqualität! Für die Erfüllung dieser Ansprüche ist unser ganzes handwerkliches Geschick gefragt. In enger Zusammenarbeit mit Ihrem Zahnarzt finden wir gemeinsam die bestmöglichen Lösungen zahntechnischer Meisterleistung.",
+        "beschreibung": "Die moderne Zahnmedizin steht für Funktion und Ästhetik. Das garantiert jedem Patienten ein Höchstmaß an Lebensqualität! Für die Erfüllung dieser Ansprüche ist unser ganzes handwerkliches Geschick gefragt. In enger Zusammenarbeit mit dem Zahnarzt finden wir gemeinsam die bestmöglichen Lösungen zahntechnischer Meisterleistung.",
         "scrollen": true
       },
       "herkunft": {
         "titel": "Darauf bauen<br/><strong>Wir</strong> auf.",
         "bild": "public/images/landing/002.jpg",
         "untertitel": "Allein die Herkunft sagt<br/>viel über die Qualität aus.",
-        "beschreibung": "kompeDent setzt konsequent auf ‚Made in Germany’ und auf meisterhafte Zahntechnik: Das bedeutet hervorragend ausgebildete Zahntechniker mit Erfahrung und Liebe zum Beruf, sowie modernste Geräte und beste Materialien. Wir setzen auf unsere vetrauensvollen Lieferanten und Kooperationspartner.",
+        "beschreibung": "kompeDent setzt konsequent auf ‚Made in Germany’ und auf meisterhafte Zahntechnik: Das bedeutet hervorragend ausgebildete Zahntechniker mit Erfahrung und Liebe zum Beruf, sowie modernste Geräte und beste Materialien. Wir setzen auf unsere vertrauensvolle Lieferanten und Kooperationspartner.",
         "scrollen": true
       },
       "region": {
@@ -291,7 +291,7 @@
         "titel": "Werte schaffen.<br/><strong>Experten für Sie.</strong>",
         "bild": "public/images/landing/004.jpg",
         "untertitel": "Werte Schaffen.<br/>Experten für Sie.",
-        "beschreibung": "Regelmäßige Fortbildungen und Schulungen, stete Weiterentwicklung und dauerhaftes Lernen. Optimale Zusammenarbeit zwischen Zahnarzt und Zahntechniker, beste Materialien und gelerntes Handwerk sind die Voraussetzungen für einen nachhaltigen Zahnersatz. Bei sachgemäßer Pflege und regelmäßiger Kontrolle durch den Zahnarzt, d.h. alle 6 Monate Zahnersatzkontrolle, erhalten sie auf die von uns erbachten Leistungen und Materialien eine Gewährleistung von 5 Jahren.",
+        "beschreibung": "Regelmäßige Fortbildungen und Schulungen, stete Weiterentwicklung und dauerhaftes Lernen. Optimale Zusammenarbeit zwischen Zahnarzt und Zahntechniker, beste Materialien und gelerntes Handwerk sind die Voraussetzungen für einen nachhaltigen Zahnersatz. Bei sachgemäßer Pflege und regelmäßiger Kontrolle durch den Zahnarzt, d.h. alle 6 Monate Zahnersatzkontrolle, erhalten sie auf die von uns erbrachten Leistungen und Materialien eine Gewährleistung von 5 Jahren.",
         "scrollen": true
       }
     }
